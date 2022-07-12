@@ -50,8 +50,15 @@ It is Fast, Compact & Easy yo Use.
 
 <img src="https://user-images.githubusercontent.com/62428616/178448992-1d0b265d-6b5c-432a-82e5-6a767cd9c161.jpg" width="200">
 
-[comment]: <> (<h2 align="left">Conclusion and Future Scope of TaskMultiplexer</h2>)
+<h2 align="left">Conclusion and Future Scope of TaskMultiplexer</h2>
 
-[comment]: <> (According to my analysis of TaskMultiplexer, it's been proven that it is the sure winner in the collaboration tool that organizes your projects into boards. It tells you what's being worked on and who's working on what.)
+According to my analysis of TaskMultiplexer, it's been proven that it is the sure winner in the collaboration tool that organizes your projects into boards. It tells you what's being worked on and who's working on what.
 
-[comment]: <> (It is fully functional )
+It is fully functional task management Android App. The App supports personal Task Boards, allowing simple and organized task tracking that seperates overarching goals or topics from specific tasks.
+
+Although there are certain features that I plan to inculcate in the future, so the future Scope of this Project is as follows:
+
+Remodel the Project to use MVVM App Architecture (ViewModel and LiveData).
+Turn the Multi-Activity App to Single Activity and Multiple Fragments.
+Integrate seamlessly with the apps and services the team relies on like Slack, Dropbox, Outlook, Gmail, Salesforce, InVision, Jira, and hundreds more.
+Use a RESTful API instead of Firebase Firestore Database.
