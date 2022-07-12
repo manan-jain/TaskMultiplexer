@@ -38,7 +38,10 @@ It is Fast, Compact & Easy yo Use.
 
 <h2 align="left">Android App Snapshots</h2>
 
-![Screenshot_2022-04-19-10-49-15-07](https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg)
+[comment]: <> (![Screenshot_2022-04-19-10-49-15-07]&#40;https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg&#41;)
+
+<img src="https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg" width="200">
+
 ![Screenshot_2022-04-19-10-49-49-28_b7a20974aec55cbaa9d7c0d67f047669](https://user-images.githubusercontent.com/62428616/178448419-62d34ecf-0ca2-4e8b-b928-7ec518552c8d.jpg)
 ![Screenshot_2022-04-19-10-50-01-57_b7a20974aec55cbaa9d7c0d67f047669](https://user-images.githubusercontent.com/62428616/178448451-49a40f86-a1cb-43de-9d89-f01ef81bccca.jpg)
 ![Screenshot_2022-04-19-10-53-07-96_b7a20974aec55cbaa9d7c0d67f047669](https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg)
