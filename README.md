@@ -38,7 +38,7 @@ It is Fast, Compact & Easy yo Use.
 
 <h2 align="left">Android App Snapshots</h2>
 
-<p align="middle">
+<p align="left">
 
 <img src="https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg" width="200">
 
