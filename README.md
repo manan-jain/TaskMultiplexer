@@ -38,6 +38,8 @@ It is Fast, Compact & Easy yo Use.
 
 <h2 align="left">Android App Snapshots</h2>
 
+<p align="middle">
+
 <img src="https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg" width="200">
 
 <img src="https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg" width="200">
@@ -49,6 +51,8 @@ It is Fast, Compact & Easy yo Use.
 <img src="https://user-images.githubusercontent.com/62428616/178448964-306aefc2-27dc-43de-9dee-db5dbbfb3ab4.jpg" width="200">
 
 <img src="https://user-images.githubusercontent.com/62428616/178448992-1d0b265d-6b5c-432a-82e5-6a767cd9c161.jpg" width="200">
+
+</p>
 
 <h2 align="left">Conclusion and Future Scope of TaskMultiplexer</h2>
 
