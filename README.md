@@ -62,7 +62,8 @@ It is Fast, Compact & Easy yo Use.
 
 <img src="https://user-images.githubusercontent.com/62428616/178448992-1d0b265d-6b5c-432a-82e5-6a767cd9c161.jpg" width="200" align="left">
 
-<h2 align="left">Conclusion and Future Scope of TaskMultiplexer</h2>
+[comment]: <> (<h2 align="left">Conclusion and Future Scope of TaskMultiplexer</h2>)
 
-According to my analysis of TaskMultiplexer, it's been proven that it is the sure winner in the collaboration tool that organizes your projects into boards. It tells you what's being worked on and who's working on what.
-It is fully functional 
+[comment]: <> (According to my analysis of TaskMultiplexer, it's been proven that it is the sure winner in the collaboration tool that organizes your projects into boards. It tells you what's being worked on and who's working on what.)
+
+[comment]: <> (It is fully functional )
