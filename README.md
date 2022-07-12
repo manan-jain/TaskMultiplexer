@@ -40,15 +40,9 @@ It is Fast, Compact & Easy yo Use.
 
 <img src="https://user-images.githubusercontent.com/62428616/178448247-321c963f-31fd-4afd-bec5-0b50b409f3b9.jpg" width="200" align="left">
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/62428616/178448419-62d34ecf-0ca2-4e8b-b928-7ec518552c8d.jpg" width="200" align="left">
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/62428616/178448451-49a40f86-a1cb-43de-9d89-f01ef81bccca.jpg" width="200" align="left">
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg" width="200" align="left">
 
