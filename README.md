@@ -46,19 +46,19 @@ It is Fast, Compact & Easy yo Use.
 
 [comment]: <> (![Screenshot_2022-04-19-10-50-01-57_b7a20974aec55cbaa9d7c0d67f047669]&#40;https://user-images.githubusercontent.com/62428616/178448451-49a40f86-a1cb-43de-9d89-f01ef81bccca.jpg&#41;)
 
-<img src="https://user-images.githubusercontent.com/62428616/178448451-49a40f86-a1cb-43de-9d89-f01ef81bccca.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/62428616/178448451-49a40f86-a1cb-43de-9d89-f01ef81bccca.jpg" width="200" align="left">
 
 [comment]: <> (![Screenshot_2022-04-19-10-53-07-96_b7a20974aec55cbaa9d7c0d67f047669]&#40;https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg&#41;)
 
-<img src="https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/62428616/178448481-4c29963f-0564-4c78-884f-ad0b5e33f6e7.jpg" width="200" align="left">
 
 [comment]: <> (![Screenshot_2022-04-19-10-53-14-68_b7a20974aec55cbaa9d7c0d67f047669]&#40;https://user-images.githubusercontent.com/62428616/178448515-546bba03-bcb0-4d36-85ba-0923ae88936d.jpg&#41;)
 
-<img src="https://user-images.githubusercontent.com/62428616/178448515-546bba03-bcb0-4d36-85ba-0923ae88936d.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/62428616/178448515-546bba03-bcb0-4d36-85ba-0923ae88936d.jpg" width="200" align="left">
 
 [comment]: <> (![Screenshot_2022-04-19-10-54-00-98_b7a20974aec55cbaa9d7c0d67f047669]&#40;https://user-images.githubusercontent.com/62428616/178448544-08b5ec82-f11f-44fc-beeb-26b6a3850730.jpg&#41;)
 
-<img src="https://user-images.githubusercontent.com/62428616/178448544-08b5ec82-f11f-44fc-beeb-26b6a3850730.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/62428616/178448544-08b5ec82-f11f-44fc-beeb-26b6a3850730.jpg" width="200" align="left">
 
 [comment]: <> (![Screenshot_2022-04-19-10-55-19-01_b7a20974aec55cbaa9d7c0d67f047669]&#40;https://user-images.githubusercontent.com/62428616/178448603-c7e7e78f-c3e6-440e-b405-2a4674517ab5.jpg&#41;)
 
