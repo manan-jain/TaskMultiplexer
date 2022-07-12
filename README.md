@@ -17,3 +17,23 @@ The Project has an Authentication System where the User can Sign Up / Sign In.
 If the User is not Registered he/she has to first Sign Up to the App and then he/she can Sign In to access the App/
 
 TaskMultiplexer uses Firebase's Firestore Database - Google's Firestore Firebase Database (Cloud Storage) to store and manage User's Data efficiently.
+
+
+### Every User Profile / Member has the following features - ###
+* Each Member has all the boards he is assigned to.
+* Each Board has all the lists with task cards.
+* Cards can be moved up and down in the list (Drag and Drop features).
+* Easily update User Profile - Set Name, Profile Pictures, Phone Number, etc.
+
+### Create your Tasks list - ###
+* Manage your tasks with other members easily.
+* Assign different users to tasks.
+* Tasks are sorted & showed separately
+* Option to Add, Edit & Delete Cards to your task.
+* Easily Update Cards - set Label Color, Assign Members, and Add Due Date.
+
+Get notification from the App when somebody assigns you a Board.
+
+It is Fast, Compact & Easy yo Use.
+
+<h2 align="left">Android App Snapshots</h2>
