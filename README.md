@@ -7,6 +7,7 @@
 TaskMultiplexer - Trello Clone is a fully functional task management Android App Developed in Kotlin that will allow users to Create/Manage their Accounts and be Assigned to different Tasks in the form of Cards. This App uses the Firestore database for User Information and Firebase Authentication for USer SIgn Up/Sign In. The app also includes advanced Android features such as Drag n Drop, Recycler Views, Notifications, Splash Screen, Navigation Drawer, Third-party libraries such as CircleImageView, Glide, Custom UI's, and much more! Currently, the Android Application i fully usable with Minimal functionality. It uses a Many to Many Database Structure.
 
 <h2 align="left">Flow Diagram of TaskMultiplexer</h2>
+
 ![Flow Diagram](https://user-images.githubusercontent.com/62428616/178446837-f6c3b0c1-f090-4c89-9f6a-486bc9b64221.png)
 
 
