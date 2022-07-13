@@ -8,7 +8,8 @@ TaskMultiplexer - Trello Clone is a fully functional task management Android App
 
 <h2 align="left">Flow Diagram of TaskMultiplexer</h2>
 
-[Flow chart](https://user-images.githubusercontent.com/62428616/178653799-2a62642c-01fc-4e8d-ae8c-cf612e33bd45.jpeg)
+![Flow chart](https://user-images.githubusercontent.com/62428616/178653799-2a62642c-01fc-4e8d-ae8c-cf612e33bd45.jpeg)
+
 
 
 <h2 align="left">Implementation Details</h2>
